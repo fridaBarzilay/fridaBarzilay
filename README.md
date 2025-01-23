@@ -2,8 +2,6 @@
 
 # 👋 Welcome to My GitHub!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Driven+Computer+Science+Graduate;Problem+Solver+%7C+Team+Player;Passionate+About+Innovation)](https://git.io/typing-svg)
-
 ## 🧑‍💻 About Me
 **Driven Computer Science graduate**, with a passion for software development and innovation.  
 - 💻 **Skills**: Java, C, Python, PostgreSQL  
