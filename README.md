@@ -20,9 +20,10 @@
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fridi-barzilay-462446260)  
 
-![Java](https://img.shields.io/badge/Code-Java-blue?style=flat-square&logo=java)
-![C](https://img.shields.io/badge/Code-C-orange?style=flat-square&logo=c)
-![Python](https://img.shields.io/badge/Code-Python-yellow?style=flat-square&logo=python)
-![Linux](https://img.shields.io/badge/OS-Linux-red?style=flat-square&logo=linux)
-
+## Programming Languages:
+<p>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" style="vertical-align:top; margin:4px">
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" style="vertical-align:top; margin:4px">
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" style="vertical-align:top; margin:4px">
+</p>
 ---
