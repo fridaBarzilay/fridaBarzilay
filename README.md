@@ -21,7 +21,6 @@
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fridi-barzilay-462446260)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=github)](https://yourportfolio.com)  
 
 ![Java](https://img.shields.io/badge/Code-Java-blue?style=flat-square&logo=java)
 ![C](https://img.shields.io/badge/Code-C-orange?style=flat-square&logo=c)
